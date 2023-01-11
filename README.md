@@ -1,3 +1,5 @@
+>English version for ReadMe -> [Readme-EN](https://github.com/roadtosomething/complexityProjectSLN/blob/master/README-en.md)
+
 # Задача об оптимальной одномерной упаковке
   В данном проекте проводится анализ различных алгоритмов решения NP-полной задачи об упаковке в контейнеры
 ## Структура кода
